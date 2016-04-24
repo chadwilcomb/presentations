@@ -1,0 +1,9 @@
+.reveal .strikethru {
+  text-decoration: line-through;
+}
+.reveal .italic {
+  font-style: italic;
+}
+.reveal .white {
+  color: #FFF;
+}
