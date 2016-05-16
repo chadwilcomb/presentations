@@ -15,8 +15,11 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #002b36;
-  background-color: #002b36; }
+  /*background: #002b36;*/
+  background: rgba(58, 43, 128, 0.9);
+  /*background-color: #002b36;*/
+  background-color: rgba(58, 43, 128, 0.9);
+}
 
 .reveal {
   font-family: "Lato", sans-serif;
@@ -209,7 +212,8 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #268bd2;
+  /*color: #268bd2;*/
+  color: #fe2b75;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
