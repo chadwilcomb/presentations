@@ -10,3 +10,7 @@
 .reveal .hot {
   color: #fe2b75;
 }
+.reveal .hot-background {
+  color: #FFF;
+  background-color: #fe2b75;
+}
